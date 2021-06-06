@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naneunBie
 - 👀 I’m interested in Food and Code
 - 🌱 I’m currently learning Javascript, Java Springboot also Python
-- 💞️ I’m looking to collaborate on Angular or Sprintboot
+- 💞️ I’m looking to collaborate on Angular or Springboot
 - 📫 How to reach me helen.febrianii@gmail.com
 
 <!---
