@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naneunBie
+- 👋 Hi, I’m Helen
 - 👀 I’m interested in Food and Code
 - 🌱 I’m currently focus on Javascript, Java Springboot, Angular, React also Python
 - 💞️ I’m looking to collaborate on Angular or Springboot
